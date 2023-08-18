@@ -1,5 +1,5 @@
 """
-Hello World app for running Python apps on Bluemix
+Hello World app for running Python apps on Bluemix.
 """
 
 # Always prefer setuptools over distutils
